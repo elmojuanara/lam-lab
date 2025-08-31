@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Risk & Disaster Resilience Lab"
+  },
+  "header": {
+    "lab_name": "Laboratory on Risk and Disaster Resilience Research"
+  },
+  "nav": {
+    "research": "Research",
+    "members": "Members",
+    "publications": "Publications",
+    "activities": "Activities",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Strengthening Risk and Disaster Resilience",
+    "subtitle": "Bridging science, technology, and community for a safer future.",
+    "tag": "Draft – offline",
+    "caption": "Replace with a lab photo or schematic."
+  },
+  "sections": {
+    "research": {
+      "title": "Research Topics",
+      "desc": "Our research focuses on analysis, management, communication, and governance of risks in nature and society, with integrated analytical techniques for complex risk and disaster problems."
+    },
+    "members": {
+      "title": "Lab Members",
+      "desc": "Core members and collaborators.",
+      "table": {
+        "name": "Name",
+        "role": "Role",
+        "email": "Email"
+      }
+    },
+    "publications": {
+      "title": "Selected Publications"
+    },
+    "activities": {
+      "title": "News & Activities"
+    },
+    "contact": {
+      "title": "Contact",
+      "address_label": "Address:",
+      "address_value": "JAIST (CSD), Nomi, Ishikawa, Japan",
+      "email_label": "Email:",
+      "note": "Replace with your lab’s details."
+    }
+  },
+  "content": {
+    "research_topics": [
+      "Multimodal risk analysis and prediction",
+      "Integrated disaster resilience framework",
+      "Community-based disaster risk reduction",
+      "Adaptive decision strategies under uncertainty",
+      "Nature-based disaster prediction methods"
+    ],
+    "members": [
+      {
+        "name": "LAM, Chi Yung",
+        "role": "Associate Professor",
+        "email": "cylam@jaist.ac.jp"
+      },
+      {
+        "name": "Elmo Juanara",
+        "role": "Doctoral Student (D3)",
+        "email": [
+          "elmo.juanara@jaist.ac.jp",
+          "juanaraelmo@yahoo.com"
+        ]
+      }
+    ],
+    "publications": [
+      "LAM, C.Y., et al. (2025). Information network analysis for issuing evacuation instructions. Journal of Risk Research.",
+      "LAM, C.Y., et al. (2025). Optimizing travel routes for medical services during evacuation. Progress in Disaster Science.",
+      "LAM, C.Y., et al. (2024). Topological network and fuzzy AHP framework for evacuation shelter suitability. IJDRR."
+    ],
+    "activities": [
+      {
+        "date": "2025-08-31",
+        "title": "Offline multi-page draft",
+        "note": "Edit JSON files locally."
+      }
+    ]
+  },
+  "footer": {
+    "text": "© 2025 Laboratory on Risk and Disaster Resilience Research."
+  }
+}

@@ -1,0 +1,9 @@
+OFFLINE EDIT (tanpa GitHub)
+1) Unzip folder ini.
+2) Buka index.html (double-click). Halaman lain: members.html, publications.html, activities.html, contact.html.
+3) Edit teks di i18n/en.json (dan ja.json, id.json). Simpan lalu refresh browser.
+4) Ganti logo di assets/img/logo.png.
+5) Jika browser memblokir pemuatan JSON lokal, jalankan server lokal:
+   - Windows PowerShell:  python -m http.server 8000
+   - macOS/Linux:         python3 -m http.server 8000
+   buka http://localhost:8000
