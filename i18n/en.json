@@ -59,14 +59,14 @@
       {
         "name": "LAM, Chi Yung",
         "role": "Associate Professor",
-        "email": "cylam@jaist.ac.jp"
+        "email": "cylam[at]jaist.ac.jp"
       },
       {
         "name": "Elmo Juanara",
         "role": "Doctoral Student (D3)",
         "email": [
-          "elmo.juanara@jaist.ac.jp",
-          "juanaraelmo@yahoo.com"
+          "elmo.juanara[at]jaist.ac.jp",
+          "juanaraelmo[at]yahoo.com"
         ]
       }
     ],
@@ -77,9 +77,9 @@
     ],
     "activities": [
       {
-        "date": "2025-08-31",
-        "title": "Offline multi-page draft",
-        "note": "Edit JSON files locally."
+        "date": "2025-08-6",
+        "title": "PhD Final Defense",
+        "note": "Elmo Juanara"
       }
     ]
   },
