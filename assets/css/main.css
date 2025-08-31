@@ -23,8 +23,8 @@ table{width:100%;border-collapse:collapse}
 td,th{padding:8px 10px;border-bottom:1px solid #e5e7eb;text-align:left}
 figure{margin:0}
 .hero-banner { border-radius:12px; overflow:hidden; border:1px solid #e5e7eb; background:#eef2ff; }
-.hero-banner img { width:100%; height:240px; object-fit:cover; display:block; }
-@media (max-width: 720px){
-  .hero-banner img { height:180px; }
+.hero-banner img { width:150px; height:100px; object-fit:cover; display:block; }
+@media (max-width: 150px){
+  .hero-banner img { height:100px; }
 }
 
