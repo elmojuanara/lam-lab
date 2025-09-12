@@ -55,46 +55,45 @@
       "Adaptive decision strategies under uncertainty",
       "Nature-based disaster prediction methods"
     ],
-   "members": [
-  {
-    "name": "LAM, Chi Yung",
-    "role": "Associate Professor",
-    "email": "cylam[at]jaist.ac.jp"
-  },
-  {
-    "name": "Elmo Juanara",
-    "role": "Doctoral Student (D3)",
-    "email": [
-      "elmo.juanara[at]jaist.ac.jp",
-      "juanaraelmo[at]yahoo.com"
-    ]
-  },
-  {
-    "name": "GAO, Yihan",
-    "role": "Doctoral Student (D3)",
-    "email": "s2220427[at]jaist.ac.jp"
-  },
-  {
-    "name": "JIAO, Guanqun",
-    "role": "Master Student (M2)",
-    "email": "s2410081[at]jaist.ac.jp"
-  },
-  {
-    "name": "LU, Mengqi",
-    "role": "Master Student (M2)",
-    "email": "s2410220[at]jaist.ac.jp"
-  },
-  {
-    "name": "LIU, Xinyuan",
-    "role": "Master Student (M2)",
-    "email": "s2410213[at]jaist.ac.jp"
-  },
-  {
-    "name": "XU, Lingyun",
-    "role": "Master Student (M1)",
-    "email": "s2410076[at]jaist.ac.jp"
-  }
-]
+    "members": [
+      {
+        "name": "LAM, Chi Yung",
+        "role": "Associate Professor",
+        "email": "cylam[at]jaist.ac.jp"
+      },
+      {
+        "name": "Elmo Juanara",
+        "role": "Doctoral Student (D3)",
+        "email": [
+          "elmo.juanara[at]jaist.ac.jp",
+          "juanaraelmo[at]yahoo.com"
+        ]
+      },
+      {
+        "name": "GAO, Yihan",
+        "role": "Doctoral Student (D3)",
+        "email": "s2220427[at]jaist.ac.jp"
+      },
+      {
+        "name": "JIAO, Guanqun",
+        "role": "Master Student (M2)",
+        "email": "s2410081[at]jaist.ac.jp"
+      },
+      {
+        "name": "LU, Mengqi",
+        "role": "Master Student (M2)",
+        "email": "s2410220[at]jaist.ac.jp"
+      },
+      {
+        "name": "LIU, Xinyuan",
+        "role": "Master Student (M2)",
+        "email": "s2410213[at]jaist.ac.jp"
+      },
+      {
+        "name": "XU, Lingyun",
+        "role": "Master Student (M1)",
+        "email": "s2410076[at]jaist.ac.jp"
+      }
     ],
     "publications": [
       "LAM, C.Y., et al. (2025). Information network analysis for issuing evacuation instructions. Journal of Risk Research.",
@@ -103,7 +102,7 @@
     ],
     "activities": [
       {
-        "date": "2025-08-6",
+        "date": "2025-08-06",
         "title": "PhD Final Defense",
         "note": "Elmo Juanara"
       }
