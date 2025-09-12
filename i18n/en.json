@@ -22,7 +22,14 @@
   "sections": {
     "research": {
       "title": "Research Topics",
-      "desc": "Our research focuses on analysis, management, communication, and governance of risks in nature and society, with integrated analytical techniques for complex risk and disaster problems."
+      "desc": "Our research focuses on analysis, management, communication, and governance of risks in nature and society, with integrated analytical techniques for complex risk and disaster problems.",
+      "topics": [
+        "Multimodal risk analysis and prediction",
+        "Integrated disaster resilience framework",
+        "Community-based disaster risk reduction",
+        "Adaptive decision strategies under uncertainty",
+        "Nature-based disaster prediction methods"
+      ]
     },
     "members": {
       "title": "Lab Members",
@@ -31,13 +38,65 @@
         "name": "Name",
         "role": "Role",
         "email": "Email"
-      }
+      },
+      "data": [
+        {
+          "name": "LAM, Chi Yung",
+          "role": "Associate Professor",
+          "email": "cylam[at]jaist.ac.jp"
+        },
+        {
+          "name": "Elmo Juanara",
+          "role": "Doctoral Student (D3)",
+          "email": [
+            "elmo.juanara[at]jaist.ac.jp",
+            "juanaraelmo[at]yahoo.com"
+          ]
+        },
+        {
+          "name": "GAO, Yihan",
+          "role": "Doctoral Student (D3)",
+          "email": "s2220427[at]jaist.ac.jp"
+        },
+        {
+          "name": "JIAO, Guanqun",
+          "role": "Master Student (M2)",
+          "email": "s2410081[at]jaist.ac.jp"
+        },
+        {
+          "name": "LU, Mengqi",
+          "role": "Master Student (M2)",
+          "email": "s2410220[at]jaist.ac.jp"
+        },
+        {
+          "name": "LIU, Xinyuan",
+          "role": "Master Student (M2)",
+          "email": "s2410213[at]jaist.ac.jp"
+        },
+        {
+          "name": "XU, Lingyun",
+          "role": "Master Student (M1)",
+          "email": "s2410076[at]jaist.ac.jp"
+        }
+      ]
     },
     "publications": {
-      "title": "Selected Publications"
+      "title": "Selected Publications",
+      "list": [
+        "LAM, C.Y., et al. (2025). Information network analysis for issuing evacuation instructions. Journal of Risk Research.",
+        "LAM, C.Y., et al. (2025). Optimizing travel routes for medical services during evacuation. Progress in Disaster Science.",
+        "LAM, C.Y., et al. (2024). Topological network and fuzzy AHP framework for evacuation shelter suitability. IJDRR."
+      ]
     },
     "activities": {
-      "title": "News & Activities"
+      "title": "News & Activities",
+      "list": [
+        {
+          "date": "2025-08-06",
+          "title": "PhD Final Defense",
+          "note": "Elmo Juanara"
+        }
+      ]
     },
     "contact": {
       "title": "Contact",
@@ -46,67 +105,6 @@
       "email_label": "Email:",
       "note": "Replace with your lab’s details."
     }
-  },
-  "content": {
-    "research_topics": [
-      "Multimodal risk analysis and prediction",
-      "Integrated disaster resilience framework",
-      "Community-based disaster risk reduction",
-      "Adaptive decision strategies under uncertainty",
-      "Nature-based disaster prediction methods"
-    ],
-    "members": [
-      {
-        "name": "LAM, Chi Yung",
-        "role": "Associate Professor",
-        "email": "cylam[at]jaist.ac.jp"
-      },
-      {
-        "name": "Elmo Juanara",
-        "role": "Doctoral Student (D3)",
-        "email": [
-          "elmo.juanara[at]jaist.ac.jp",
-          "juanaraelmo[at]yahoo.com"
-        ]
-      },
-      {
-        "name": "GAO, Yihan",
-        "role": "Doctoral Student (D3)",
-        "email": "s2220427[at]jaist.ac.jp"
-      },
-      {
-        "name": "JIAO, Guanqun",
-        "role": "Master Student (M2)",
-        "email": "s2410081[at]jaist.ac.jp"
-      },
-      {
-        "name": "LU, Mengqi",
-        "role": "Master Student (M2)",
-        "email": "s2410220[at]jaist.ac.jp"
-      },
-      {
-        "name": "LIU, Xinyuan",
-        "role": "Master Student (M2)",
-        "email": "s2410213[at]jaist.ac.jp"
-      },
-      {
-        "name": "XU, Lingyun",
-        "role": "Master Student (M1)",
-        "email": "s2410076[at]jaist.ac.jp"
-      }
-    ],
-    "publications": [
-      "LAM, C.Y., et al. (2025). Information network analysis for issuing evacuation instructions. Journal of Risk Research.",
-      "LAM, C.Y., et al. (2025). Optimizing travel routes for medical services during evacuation. Progress in Disaster Science.",
-      "LAM, C.Y., et al. (2024). Topological network and fuzzy AHP framework for evacuation shelter suitability. IJDRR."
-    ],
-    "activities": [
-      {
-        "date": "2025-08-06",
-        "title": "PhD Final Defense",
-        "note": "Elmo Juanara"
-      }
-    ]
   },
   "footer": {
     "text": "© 2025 Laboratory on Risk and Disaster Resilience Research."
